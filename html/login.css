@@ -1,0 +1,49 @@
+.main_box{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -300px;
+	margin-top: -230px;
+	width: 600px;
+	height: 460px;
+	border-radius: 10px;
+	border-color: red;
+	border-width: 2px;
+	border-style: solid;
+}
+
+.login_logo{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	height: 45px;
+	text-align: center;
+}
+
+.login_logo img{
+	height: 45px;
+}
+
+.login_form{
+	padding-top: 20px;
+	font-size: 16px;
+}
+
+.login_box .form-control {
+	display: inline-block; 
+	*display: inline; 
+	zoom: 1; 
+	width: auto; 
+	font-size: 18px;
+}
+
+.login_box .form-group label.t{
+	width: 120px;
+	text-align: right;
+	cursor: pointer;
+}
+
+.login_box .form-control.x319{
+	width: 319px;
+}
+
+.login_box .form-contorl
